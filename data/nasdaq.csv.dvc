@@ -1,0 +1,5 @@
+outs:
+- md5: 96924366301465cef3b2ef753d36e5af
+  size: 4907541
+  hash: md5
+  path: nasdaq.csv

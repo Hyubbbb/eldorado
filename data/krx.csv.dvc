@@ -1,0 +1,5 @@
+outs:
+- md5: 159f597af0fdfeef8c0869c9cc13768b
+  size: 248660
+  hash: md5
+  path: krx.csv
